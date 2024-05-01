@@ -59,7 +59,5 @@ elif paths == "north":
     input("Island Thermo, a dark and cursed Island with powerful beasts roaming everywhere you look. Your boat got closer and you decided to try and slow it down. But it couldn't, it wouldn't! It just kept going, and going, and never stoped.")
     input("You turned to slumber and slept for a long time...")
     
-    Input("When")
-    
 else:
     print("you still need to choose!")
